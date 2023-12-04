@@ -1,0 +1,3 @@
+Geza;2100.0;WIN
+István;2000.0;WIN
+gyork;-2000.0;LOST
